@@ -24,5 +24,5 @@ const createSocketIOServer = function (args, config, logger) {
 }
 
 module.exports = {
-  'framework:socketio-sever': ['factory', createSocketIOServer]
+  'framework:socketio-server': ['factory', createSocketIOServer]
 }

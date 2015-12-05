@@ -22,7 +22,7 @@ module.exports = function (config) {
       // do something with the socket.io instance
     }
   },
-  framworks: ['socketio-server']
+  frameworks: ['socketio-server']
 }
 ```
 
