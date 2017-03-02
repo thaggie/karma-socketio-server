@@ -27,7 +27,7 @@ module.exports = function (config) {
 ```
 
 ## Thanks
-Thanks to [karma-websocket-server](https://github.com/weblogixx/karam-websocket-server) for the template on how to do this
+Thanks to [karma-websocket-server](https://github.com/weblogixx/karma-websocket-server) for the template on how to do this
 
 ## License
 Copyright (c) 2015 Scripto; [Apache 2.0](License)
